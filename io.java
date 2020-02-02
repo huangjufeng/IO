@@ -30,7 +30,7 @@ public class d {
 		System.out.println(file.isDirectory());// 鍒ゆ柇鏂囦欢鏄惁鏄竴涓洰褰�
 		System.out.println(file.isHidden());// 鏂囦欢鏄惁闅愯棌
 		System.out.println(file.isFile());// 鍒ゆ柇鏂囦欢鏄惁瀛樺湪
-		System.out.println("---我的修改---00----3----------------");
+		System.out.println("---我的修改---00----3----------00001010101------");
 
 		File file1 = new File("E:/bb");// 1
 		String[] str = file1.list();// 鑾峰彇鎸囧畾鐩綍涓嬬殑鎵�鏈夋枃浠舵垨鑰呮枃浠跺す鐨勫悕绉版暟缁�
